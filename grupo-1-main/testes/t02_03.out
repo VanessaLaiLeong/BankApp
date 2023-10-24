@@ -1,0 +1,89 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 1, Rian Blackwell, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 2, Shanon Gray, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> #######  2 Clientes no Banco  #######
+1 - 703041506 - Rian Blackwell - Contas: 0 - 0.00€
+2 - 136415680 - Shanon Gray - Contas: 0 - 0.00€
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 3, Laylah Lord, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> #######  3 Clientes no Banco  #######
+3 - 213106313 - Laylah Lord - Contas: 0 - 0.00€
+1 - 703041506 - Rian Blackwell - Contas: 0 - 0.00€
+2 - 136415680 - Shanon Gray - Contas: 0 - 0.00€
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> 

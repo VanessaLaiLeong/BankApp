@@ -1,0 +1,88 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 1, Hailie Blaese, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 2, Farzana Cornish, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 3, Nell Webber, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->O cliente 1 não possui contas
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> 

@@ -1,0 +1,141 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 1, Farzana Cornish, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 2, Nell Webber, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta LA1 criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta XZ2 criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta FF1 criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Erro! O cliente ID 1 já não pode possuir mais contas
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta LA1 pertencente ao cliente 1 fechada com sucesso##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta TT6 criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->## Cliente 1 : Farzana Cornish : 0.00 € ##
+  # Conta Num: FF1 - Saldo: 0.00 €
+  # Conta Num: TT6 - Saldo: 0.00 €
+  # Conta Num: XZ2 - Saldo: 0.00 €
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> 

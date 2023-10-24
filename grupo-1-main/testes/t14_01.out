@@ -1,0 +1,437 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 1, Laylah Lord, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 2, Sarah-Louise Stubbs, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 3, Domonic Clemons, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 4, Martine Mckinney, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 5, Ewan Chase, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 6, Braiden Conway, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 7, Kameron Klein, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> #######  7 Clientes no Banco  #######
+6 - 437103761 - Braiden Conway - Contas: 0 - 0.00€
+3 - 243710856 - Domonic Clemons - Contas: 0 - 0.00€
+5 - 214317021 - Ewan Chase - Contas: 0 - 0.00€
+7 - 905909966 - Kameron Klein - Contas: 0 - 0.00€
+1 - 213106313 - Laylah Lord - Contas: 0 - 0.00€
+4 - 867633278 - Martine Mckinney - Contas: 0 - 0.00€
+2 - 781389636 - Sarah-Louise Stubbs - Contas: 0 - 0.00€
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta A3C criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta A2V criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta AA2 criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta KKL criada com sucesso para o cliente 3
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta BB3 criada com sucesso para o cliente 6
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta GHJ criada com sucesso para o cliente 5
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta V3E criada com sucesso para o cliente 5
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta LP8 criada com sucesso para o cliente 6
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta 34D criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta TA6 criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Erro! O cliente com o ID 9 não existe
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta RRF criada com sucesso para o cliente 6
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ####  TPSICAS1022-BANK  ####
+Clientes: 7
+Contas: 11
+Valor em Cofre: 0.00 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta TA6 pertencente ao cliente 2 fechada com sucesso##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ####  TPSICAS1022-BANK  ####
+Clientes: 7
+Contas: 10
+Valor em Cofre: 0.00 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> #######  7 Clientes no Banco  #######
+6 - 437103761 - Braiden Conway - Contas: 3 - 0.00€
+3 - 243710856 - Domonic Clemons - Contas: 1 - 0.00€
+5 - 214317021 - Ewan Chase - Contas: 2 - 0.00€
+7 - 905909966 - Kameron Klein - Contas: 0 - 0.00€
+1 - 213106313 - Laylah Lord - Contas: 2 - 0.00€
+4 - 867633278 - Martine Mckinney - Contas: 0 - 0.00€
+2 - 781389636 - Sarah-Louise Stubbs - Contas: 2 - 0.00€
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 4567.23 € efetuado com sucesso na conta RRF
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 34.67 € efetuado com sucesso na conta V3E
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->###### INFO CLIENTE: 5 ######
+NOME: Ewan Chase
+NIF: 214317021
+NUM. CONTAS: 2
+POSIÇÃO INTEGRADA: 34.67 €
+  # Conta Num: GHJ - Saldo: 0.00 €
+  # Conta Num: V3E - Saldo: 34.67 €
+   -> Movimento 1 - DEPOSITO : 34.67 €
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ####  TPSICAS1022-BANK  ####
+Clientes: 7
+Contas: 10
+Valor em Cofre: 4601.90 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> 
